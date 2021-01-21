@@ -1,5 +1,2 @@
 # MVC_BOARD
-### Spring, eclipse
-### CRUD
-### JDBC, JDBC Template
-### mybatis
+### Spring, eclipse, JDBC, JDBC Template, myBatis
