@@ -1,2 +1,4 @@
 # MVC_BOARD
-### Spring, eclipse, JDBC, JDBC Template, myBatis
+
+springframework를 활용한 게시판 만들기
+eclipse, JDBC, JDBC Template, myBatis
