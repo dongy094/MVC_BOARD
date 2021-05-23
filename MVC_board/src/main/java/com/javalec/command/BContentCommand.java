@@ -13,7 +13,7 @@ import com.javalec.dto.BDto;
 /**
  * @author yeong 
  * @category test
- * dasdasdaa
+ * ttt
  */
 public class BContentCommand implements BCommand {
 
