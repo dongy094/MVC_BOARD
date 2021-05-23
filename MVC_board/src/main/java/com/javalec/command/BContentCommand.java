@@ -9,6 +9,12 @@ import org.springframework.ui.Model;
 import com.javalec.dao.BDao;
 import com.javalec.dto.BDto;
 
+
+/**
+ * @author yeong 
+ * @param branch test
+ * branch test 
+ */
 public class BContentCommand implements BCommand {
 
 	@Override
