@@ -12,8 +12,7 @@ import com.javalec.dto.BDto;
 
 /**
  * @author yeong 
- * @param branch test
- * branch test 
+ * aa
  */
 public class BContentCommand implements BCommand {
 
