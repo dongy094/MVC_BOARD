@@ -2,6 +2,10 @@ package com.javalec.dto;
 
 import java.sql.Timestamp;
 
+/**
+ * <pre>
+ * DTO
+ * */
 public class BDto {
 	int bId;
 	String bName;
