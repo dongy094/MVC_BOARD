@@ -4,7 +4,7 @@ import java.sql.Timestamp;
 
 /**
  * <pre>
- * DTO
+ * @title DTO
  * */
 public class BDto {
 	int bId;
