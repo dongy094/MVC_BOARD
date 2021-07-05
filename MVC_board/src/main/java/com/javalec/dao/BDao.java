@@ -22,7 +22,8 @@ import com.javalec.dto.BDto;
 import com.javalec.template.Constant;
 
 /**
- * dao
+ * 
+ * 
  * */
 public class BDao {
 	DataSource dataSource=null;
