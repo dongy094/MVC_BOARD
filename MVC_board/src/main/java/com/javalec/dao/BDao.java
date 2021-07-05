@@ -23,7 +23,7 @@ import com.javalec.template.Constant;
 
 /**
  * 
- * dao
+ * 
  * 
  * */
 public class BDao {
