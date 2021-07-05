@@ -21,7 +21,9 @@ import org.springframework.jdbc.core.ResultSetExtractor;
 import com.javalec.dto.BDto;
 import com.javalec.template.Constant;
 
-// dao //
+/**
+ * dao
+ * */
 public class BDao {
 	DataSource dataSource=null;
 	JdbcTemplate template=null;
